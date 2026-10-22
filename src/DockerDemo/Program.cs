@@ -16,7 +16,7 @@ app.UseHttpsRedirection();
 
 var summaries = new[]
 {
-    "UBUNTU", "LEARNING", "UBUNTU", "AND", "DOCKER"
+    "UBUNTU", "LEARNING", "UBUNTU", "AND", "DOCKER","Docker cache test","Cache demonstratie",
 };
 
 app.MapGet("/weatherforecast", () =>
