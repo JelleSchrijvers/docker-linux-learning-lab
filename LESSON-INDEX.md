@@ -41,6 +41,8 @@ Lees eerst de lessen over Linux, daarna Git/GitHub, vervolgens .NET en Docker. G
 
 ## Status bijhouden
 
+### Eerste lessen -- 21 oktober 2026
+
 - [x] Les 1 — WSL2 en Ubuntu
 - [x] Les 2 — Bestanden en mappen
 - [x] Les 3 — Paden, rechten en sudo
@@ -59,3 +61,7 @@ Lees eerst de lessen over Linux, daarna Git/GitHub, vervolgens .NET en Docker. G
 - [x] Les 16 — Bestanden beheren in Ubuntu: verdieping
 - [x] Les 17 — Git en GitHub veilig koppelen
 - [x] Les 18 — Documenteren en committen
+
+### Nieuwe lessen -- 22 oktober 2026
+- [x] Les 19 - API testen, validatie en databasegegevens controleren
+- [x] Les 20 - Probleemnotitie: 400 Bad Request
